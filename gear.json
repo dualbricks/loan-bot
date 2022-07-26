@@ -10,9 +10,7 @@
     "name": "Drop Gear 2",
     "current": {},
     "date": "",
-    "waitList": [
-      ""
-    ],
+    "waitList": [],
     "image": ""
   },
   "DR3": {
@@ -38,8 +36,24 @@
   },
   "DEX": {
     "name": "Lv Gear DEX",
-    "current": {},
-    "date": "",
+    "current": {
+      "id": "387575908833296384",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "MichaeI",
+      "discriminator": "9464",
+      "avatar": "13b53ced54dcd827fb7a2e294993c5c9",
+      "nickname": "MigheII | Don",
+      "url": "https://cdn.discordapp.com/ephemeral-attachments/1001350974918639757/1001420030975688764/unknown.png",
+      "prev": "No previous Owner",
+      "createdTimestamp": 1512475697478,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+      "tag": "MichaeI#9464",
+      "avatarURL": "https://cdn.discordapp.com/avatars/387575908833296384/13b53ced54dcd827fb7a2e294993c5c9.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/387575908833296384/13b53ced54dcd827fb7a2e294993c5c9.webp"
+    },
+    "date": "2022-07-26T09:25:41.129Z",
     "waitList": [],
     "image": ""
   },
@@ -59,8 +73,25 @@
   },
   "LOW": {
     "name": "LOW Lv Gear ",
-    "current": {},
-    "date": "",
+    "current": {
+      "id": "315430130056953861",
+      "bot": false,
+      "system": false,
+      "flags": 0,
+      "username": "Dualbricks",
+      "discriminator": "9990",
+      "avatar": "11ba91a5efbb7f0969c0359aabc4204a",
+      "nickname": "AdeleFarm | Olivia",
+      "url": "https://cdn.discordapp.com/ephemeral-attachments/1001350974918639757/1001420057747914772/Capture.PNG",
+      "url2": "https://cdn.discordapp.com/ephemeral-attachments/1001350974918639757/1001420058595172383/Capture2.PNG",
+      "prev": "No previous Owner",
+      "createdTimestamp": 1495274803414,
+      "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "tag": "Dualbricks#9990",
+      "avatarURL": "https://cdn.discordapp.com/avatars/315430130056953861/11ba91a5efbb7f0969c0359aabc4204a.webp",
+      "displayAvatarURL": "https://cdn.discordapp.com/avatars/315430130056953861/11ba91a5efbb7f0969c0359aabc4204a.webp"
+    },
+    "date": "2022-07-26T09:25:47.712Z",
     "waitList": [],
     "image": ""
   },
@@ -77,6 +108,5 @@
     "date": "",
     "waitList": [],
     "image": ""
-
   }
 }

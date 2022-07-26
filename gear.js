@@ -11,9 +11,7 @@ const GEAR_LIST =
       "name": "Drop Gear 2",
       "current": {},
       "date": "",
-      "waitList": [
-        ""
-      ],
+      "waitList": [],
       "image": ""
     },
     "DR3": {
