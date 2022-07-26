@@ -70,5 +70,13 @@
     "date": "",
     "waitList": [],
     "image": ""
+  },
+  "HP": {
+    "name": "Lv Gear HP",
+    "current": {},
+    "date": "",
+    "waitList": [],
+    "image": ""
+
   }
 }

@@ -22,6 +22,11 @@ client.once('ready', () => {
 
 client.on('interactionCreate', async interaction => {
 	if (!interaction.isChatInputCommand()) return;
+	const role  = interaction.member.roles.cache.has('960951544596029541')
+	if(!role) {
+		await interaction.reply("You must be active to borrow gears!!!")
+		return;
+	}
 	
 	const { commandName } = interaction;
 	const user = interaction.user.id

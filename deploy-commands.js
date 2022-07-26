@@ -19,8 +19,8 @@ const commands = [
 	new SlashCommandBuilder().setName('waitlist').setDescription("waitlist").addStringOption(option=>{option.setName('gearname')
 	.setDescription("select waitlist")
 	.setRequired(true)
-	gearList.forEach((gear)=>option.addChoices(gear))
 	option.addChoices({name: "ALL GEARS", value:"ALLGEAR"})
+	gearList.forEach((gear)=>option.addChoices(gear))
 	return option
 	}
 	),
